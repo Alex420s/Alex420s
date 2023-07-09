@@ -1,7 +1,4 @@
 <div align="center">
-<h1>Hi, I'm Alex :family_man_girl: :man_technologist:</h1>
-<img  width="600" height="350"  src="https://i.postimg.cc/wjn1SyNC/alex.jpg?raw=true">
-<hr>
     <h4 >"<em>In the midst of chaos, there is also opportunity.</em>"
       <span align="center">Sun Tzu </span>
     </h4>
